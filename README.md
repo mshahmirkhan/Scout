@@ -1,0 +1,2 @@
+# Scout
+scout web
